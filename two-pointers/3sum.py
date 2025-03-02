@@ -9,3 +9,7 @@ class Solution:
                         tmp = [nums[i], nums[j], nums[k]]
                         res.add(tuple(tmp))
         return [list(i) for i in res]
+    
+'''
+better solution needed
+'''

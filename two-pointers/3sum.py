@@ -11,5 +11,5 @@ class Solution:
         return [list(i) for i in res]
     
 '''
-better solution needed
+better solution needed.
 '''

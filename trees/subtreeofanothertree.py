@@ -11,7 +11,7 @@ Input: root = [1,2,3,4,5,null,null,6], subRoot = [2,4,5]
 Output: false
 
 Constraints:
-0 <= The number of nodes in both trees <= 100.
+0 <= The number of nodes in both trees <= 100
 -100 <= root.val, subRoot.val <= 100
 '''
 
